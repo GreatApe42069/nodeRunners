@@ -11,6 +11,6 @@ Please add your X Account Followed by your Doginal Address to this file. If you 
 
 2. ***User***: **@MartinSeeger2** | ***Wallet***: **DCHxodkzaKCLjmnG4LP8uH6NKynmntmCNz** | ***Project***: https://doge.ordinalswallet.com/collection/ceded-wild-rice
 
-3. ***User***: **BillyBitcoins** | ***Wallet***: **DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6** | ***Project***: https://doge.ordinalswallet.com/collection/FckItWeBark
+3. ***User***: **@BillyBitcoins** | ***Wallet***: **DQAWs4LQKY3zVmorsLHDUCV7LE5ox6rho6** | ***Project***: https://doge.ordinalswallet.com/collection/FckItWeBark
 
 4. 
