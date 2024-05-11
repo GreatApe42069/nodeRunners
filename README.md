@@ -15,7 +15,7 @@ Please add your X Account Followed by your Doginal Address to this file. If you 
 
 4. ***User***: **@BrendanN4dn3rb** | ***Wallet***: **DMhQxUZVrsWNXJ4KbK7Dqf7wD11XRN7feR** | ***Project***: https://dogedwarfs.xyz/
 
-5. 
+5.  ***User***: **@Heimdall_Bull** | ***Wallet***: **DEpFirPqu8DZUoCT7zEzGZs74JPTCF3ZMJ** | ***Project***: https://doggy.market/nfts/doginalcowz
 
 6.  
 
