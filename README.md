@@ -17,7 +17,7 @@ Please add your X Account Followed by your Doginal Address to this file. If you 
 
 5.  ***User***: **@Heimdall_Bull** | ***Wallet***: **DEpFirPqu8DZUoCT7zEzGZs74JPTCF3ZMJ** | ***Project***: https://doggy.market/nfts/doginalcowz
 
-6.  
+6.  ***User***: **@ZachZwei** | ***Wallet***: **DU3rJD4gAXEZkhnhp95idUfGssPD3bXBZa** | ***Project***: [https://node.z4ch.xyz](https://node.z4ch.xyz)
 
 
 ![image](https://github.com/GreatApe42069/nodeRunners/assets/153969184/a5bff4cb-679c-45fa-bf67-097cecb4faa5)
