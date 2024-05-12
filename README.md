@@ -19,5 +19,7 @@ Please add your X Account Followed by your Doginal Address to this file. If you 
 
 6.  ***User***: **@ZachZwei** | ***Wallet***: **DU3rJD4gAXEZkhnhp95idUfGssPD3bXBZa** | ***Project***: [https://node.z4ch.xyz](https://node.z4ch.xyz)
 
+7.  . ***User***: **@hashartbtc** | ***Wallet***: **DGtMwwY7o6e6D9mMe2qDTrBftbTmarA3LL** | ***Project***: https://doge.ordinalswallet.com/collection/dog-party
+
 
 ![image](https://github.com/GreatApe42069/nodeRunners/assets/153969184/a5bff4cb-679c-45fa-bf67-097cecb4faa5)
