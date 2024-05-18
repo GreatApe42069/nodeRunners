@@ -21,5 +21,7 @@ Please add your X Account Followed by your Doginal Address to this file. If you 
 
 7.  . ***User***: **@hashartbtc** | ***Wallet***: **DGtMwwY7o6e6D9mMe2qDTrBftbTmarA3LL** | ***Project***: https://doge.ordinalswallet.com/collection/dog-party
 
+8.  . ***User***: **@bitcoins_son** | ***Wallet***: **DQaSwXa2ku7dEYyMzsDfdyDPZM7Pby9oEn** | ***Project***: https://doge.ordinalswallet.com/collection/doginal-ducks
+
 
 ![image](https://github.com/GreatApe42069/nodeRunners/assets/153969184/a5bff4cb-679c-45fa-bf67-097cecb4faa5)
